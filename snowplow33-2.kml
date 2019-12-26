@@ -6,35 +6,27 @@
           <IconStyle>
             <Icon>
               <href>https://raw.githubusercontent.com/fsijiaxie/test/master/snowplow_OR_s.gif</href>
-              <gx:w>138</gx:w>
-              <gx:h>138</gx:h>
             </Icon>
           </IconStyle>
         </Style>
         <Style id="Icon2">
           <IconStyle>
             <Icon>
-              <href>https://raw.githubusercontent.com/fsijiaxie/filesForWirecloud/master/snowplow_PK_s.gif</href>
-              <gx:w>138</gx:w>
-              <gx:h>138</gx:h>
+              <href>https://raw.githubusercontent.com/fsijiaxie/test/master/snowplow_PK_s.gif</href>
             </Icon>
           </IconStyle>
         </Style>
         <Style id="Icon3">
           <IconStyle>
             <Icon>
-              <href>https://raw.githubusercontent.com/fsijiaxie/filesForWirecloud/master/snowplow_GN_s.gif</href>
-              <gx:w>138</gx:w>
-              <gx:h>138</gx:h>
+              <href>https://raw.githubusercontent.com/fsijiaxie/test/master/snowplow_GN_s.gif</href>
             </Icon>
           </IconStyle>
         </Style>
         <Style id="Icon4">
           <IconStyle>
             <Icon>
-              <href>https://raw.githubusercontent.com/fsijiaxie/filesForWirecloud/master/snowplow_VI_s.gif</href>
-              <gx:w>138</gx:w>
-              <gx:h>138</gx:h>
+              <href>https://raw.githubusercontent.com/fsijiaxie/test/master/snowplow_VI_s.gif</href>
             </Icon>
           </IconStyle>
         </Style>
