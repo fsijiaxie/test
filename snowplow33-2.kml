@@ -51,21 +51,21 @@
                 <name>Snowplow3</name>
                 <styleUrl>#Icon2</styleUrl>
                 <Point>
-                    <coordinates>141.48267085,40.44983045,0</coordinates>
+                    <coordinates>137.48267085,37.44983045,0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="004">
                 <name>Snowplow4</name>
                 <styleUrl>#Icon3</styleUrl>
                 <Point>
-                    <coordinates>142.48267085,41.44983045,0</coordinates>
+                    <coordinates>136.48267085,36.44983045,0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="005">
                 <name>Snowplow5</name>
                 <styleUrl>#Icon4</styleUrl>
                 <Point>
-                    <coordinates>142.48267085,41.44983045,0</coordinates>
+                    <coordinates>134.48267085,35.44983045,0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
