@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>Snowplows</name>
+        <Style id="Icon1">
+          <IconStyle>
+            <Icon>
+              <href>https://raw.githubusercontent.com/fsijiaxie/test/master/snowplow_OR_s.gif</href>
+              <gx:w>138</gx:w>
+              <gx:h>138</gx:h>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Style id="Icon2">
+          <IconStyle>
+            <Icon>
+              <href>https://raw.githubusercontent.com/fsijiaxie/filesForWirecloud/master/snowplow_PK_s.gif</href>
+              <gx:w>138</gx:w>
+              <gx:h>138</gx:h>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Style id="Icon3">
+          <IconStyle>
+            <Icon>
+              <href>https://raw.githubusercontent.com/fsijiaxie/filesForWirecloud/master/snowplow_GN_s.gif</href>
+              <gx:w>138</gx:w>
+              <gx:h>138</gx:h>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Style id="Icon4">
+          <IconStyle>
+            <Icon>
+              <href>https://raw.githubusercontent.com/fsijiaxie/filesForWirecloud/master/snowplow_VI_s.gif</href>
+              <gx:w>138</gx:w>
+              <gx:h>138</gx:h>
+            </Icon>
+          </IconStyle>
+        </Style>
+        
+        <Folder>
+            <name>SnowplowFolder</name>
+            <Placemark id="001">
+                <name>Snowplow1</name>
+                <styleUrl>#Icon1</styleUrl>
+                <Point>
+                    <coordinates>139.48267084,38.44983047,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="002">
+                <name>Snowplow2</name>
+                <styleUrl>#Icon1</styleUrl>
+                <Point>
+                    <coordinates>140.48267087,39.44983044,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="003">
+                <name>Snowplow3</name>
+                <styleUrl>#Icon2</styleUrl>
+                <Point>
+                    <coordinates>141.48267085,40.44983045,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="004">
+                <name>Snowplow4</name>
+                <styleUrl>#Icon3</styleUrl>
+                <Point>
+                    <coordinates>142.48267085,41.44983045,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="005">
+                <name>Snowplow5</name>
+                <styleUrl>#Icon4</styleUrl>
+                <Point>
+                    <coordinates>142.48267085,41.44983045,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
